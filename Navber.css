@@ -1,0 +1,11 @@
+nav{
+    background-color: #d69a3f;
+    color: white;
+    height: 65px;
+    font-size: 25px;
+    font-weight: 600;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
